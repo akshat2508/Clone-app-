@@ -1,4 +1,4 @@
-MEAL AVAIAL APP
+MEAL AVAIL APP
 Meal Avail App is an Android application designed to facilitate meal availability tracking in a university setting. This app allows users to select their meal preference (Breakfast, Lunch, Dinner, or Tea) by scanning a QR code associated with each meal option.
 
 FEATURES
